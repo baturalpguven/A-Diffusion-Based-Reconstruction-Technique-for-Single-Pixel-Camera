@@ -4,14 +4,16 @@ Single-pixel imaging enables high-resolution imaging through multiple coded meas
 
 ## Proposed Architecture
 <div align="center">
-![Figure 1: Proposed Architecture](https://github.com/baturalpguven/A-Diffusion-Based-Reconstruction-Technique-for-Single-Pixel-Camera/assets/77858949/9fb1b5a0-2e20-445e-95c0-f7cdf557b19f.png)
-</div>
-  
+![image](https://github.com/baturalpguven/A-Diffusion-Based-Reconstruction-Technique-for-Single-Pixel-Camera/assets/77858949/dce051f0-b657-4769-a8e7-d5795f1bc690)
+
 *Figure 1: Proposed Architecture*
+</div>
+
 
 ## Results
 <div align="center">
-![Figure 2: Reconstruction Results](https://github.com/baturalpguven/A-Diffusion-Based-Reconstruction-Technique-for-Single-Pixel-Camera/assets/77858949/80d4f713-5f94-49f2-82e6-c8fcf4d247f8.png)
+![image](https://github.com/baturalpguven/A-Diffusion-Based-Reconstruction-Technique-for-Single-Pixel-Camera/assets/77858949/accfc9bf-3972-462c-82c5-4a2ef82619df)
+
 *Figure 2: (a) Original image, (b) LS, (c) TV,(d) TVFL1, (e) without additional refinement, and (f) images reconstructed using the proposed model.*
 </div>
 ## Link
